@@ -1,16 +1,70 @@
-## Hi there 👋
+# Hi, I'm Kishan Singh 👋  
 
-<!--
-**KISHANN-DEV/KISHANN-DEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student | 💻 Aspiring Full-Stack Web Developer  
+📍 Sirsa, India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+- Strong interest in **HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB, and Git/GitHub**
+- Passionate about learning modern web technologies and building real-world projects
+- Focused on improving problem-solving and development skills every day
+- **Goal:** Get a job and become self-independent.
+
+---
+
+## 🛠️ Skills & Technologies  
+
+### Programming Languages  
+- C  
+- C++  
+- Java  
+- Python  
+
+### Frontend Development  
+- HTML  
+- CSS  
+- JavaScript  
+- React  
+
+### Backend Development  
+- Node.js  
+- Express.js  
+
+### Databases  
+- MongoDB  
+- MySQL  
+
+### Tools  
+- Git  
+- GitHub  
+- VS Code  
+
+---
+
+## 📚 Currently Learning  
+- **React (Advanced Concepts)**  
+- **Next.js**  
+
+---
+
+## 📂 Projects  
+
+🔹 More projects coming soon 🚧  
+
+---
+
+## 📈 What I’m Working On  
+- Practicing Git & GitHub daily  
+- Learning full-stack web development  
+- Building beginner-to-intermediate level projects  
+
+---
+
+## 📫 Connect With Me  
+- 📧 Email: krishansingh6669@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/kishan-singh-4  
+
+---
+
+⭐ *Thank you for visiting my GitHub profile!*  
