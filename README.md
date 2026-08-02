@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-<img align="right" width="330" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+<img align="right" width="330" src="https://miro.medium.com/max/1400/1*ZDcuTsSFRoIzR3Cad0OSvA.gif" />
 
 - 🌱 Strong interest in **HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB, and Git/GitHub**
 - 💡 Passionate about learning modern web technologies and building real-world projects
@@ -56,24 +56,22 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kishan-singh-4&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kishan-singh-4&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=KISHANN-DEV&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KISHANN-DEV&theme=tokyonight&hide_border=true" width="49%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kishan-singh-4&theme=react-dark&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KISHANN-DEV&theme=react-dark&hide_border=true" width="100%"/>
 
 </div>
-
-> ⚠️ Replace `kishan-singh-4` above with your actual GitHub **username** (not your LinkedIn slug) for these stat cards to render correctly.
 
 ---
 
 ## 🐍 Contribution Snake (3D Animated Graph)
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
+<img src="https://raw.githubusercontent.com/KISHANN-DEV/KISHANN-DEV/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
 </div>
 
-> 💡 This one needs a **one-time GitHub Actions setup** (it's free) — see setup steps below.
+> ⚠️ This one won't show anything until you complete the **one-time GitHub Actions setup** below — the file it points to doesn't exist yet.
 
 ---
 
