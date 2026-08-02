@@ -71,7 +71,6 @@
 <img src="https://raw.githubusercontent.com/KISHANN-DEV/KISHANN-DEV/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
 </div>
 
-> ⚠️ This one won't show anything until you complete the **one-time GitHub Actions setup** below — the file it points to doesn't exist yet.
 
 ---
 
